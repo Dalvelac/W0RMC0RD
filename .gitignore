@@ -1,0 +1,5 @@
+build/
+*.o
+killswitch
+killswitch_test
+ks_test
